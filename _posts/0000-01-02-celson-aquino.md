@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"No, what I said was 'no new taxis!'" (Donald Trump)
 Use the left arrow to go back!
